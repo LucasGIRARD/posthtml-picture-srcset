@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "fs": "0.0.1-security",
-    "image-size": "^1.0.1",
+    "image-size": "^2.0.2",
     "rollup-plugin-generate-image-sizes": "^0.0.20",
     "sharp": "^0.32.4"
   },
@@ -33,7 +33,7 @@
     "conventional-changelog-cli": "^2.0.31",
     "husky": "^4.3.0",
     "nyc": "^15.1.0",
-    "posthtml": "^0.13.3",
+    "posthtml": "^0.16.6",
     "xo": "^0.33.1"
   },
   "exports": "./lib/picture-srcset.js"
