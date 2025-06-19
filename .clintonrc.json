@@ -3,6 +3,7 @@
   "rules": {
     "ava": "off",
     "xo": "off",
-    "use-travis": "off"
+    "use-travis": "off",
+    "pkg-schema": "off"
   }
 }

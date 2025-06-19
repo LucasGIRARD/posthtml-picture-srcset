@@ -1,5 +1,5 @@
 const config = {
-  verbose: true
+  verbose: true,
 };
 
 export default config;
